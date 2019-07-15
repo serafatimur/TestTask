@@ -1,0 +1,16 @@
+{
+  "name": "testtask",
+  "version": "1.0.0",
+  "description": "TestTask for Job",
+  "scripts": {
+    "server:site": "node server.js",
+    "server:api": "node api-server/api-server.js"
+  },
+  "author": "Timur Zakirov",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.2",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {}
+}
